@@ -7,16 +7,12 @@ import Pricing from "@/components/Pricing";
 import FAQ from "@/components/FAQ";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
-import TargetCursor from "@/components/TargetCursor";
 import MediaShowcase from "@/components/MediaShowcase";
 
 const Index = () => {
   return (
     <div className="min-h-screen bg-background overflow-hidden">
-      <TargetCursor
-        spinDuration={2}
-        hideDefaultCursor={true}
-      />
+      
       <Navbar />
       <Hero />
       <section>

@@ -91,7 +91,7 @@ const Features = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <SplitText
-            text="Everything Your Business Brain Needs – AI Tally & Autoprice Pro"
+            text="Everything Your Business Brain Needs – AI Tally"
             className="text-2xl text-center font-orbitron md:text-4xl"
             delay={100}
             duration={0.2}
@@ -104,11 +104,9 @@ const Features = () => {
             textAlign="center"
           />
           <p className="text-xl text-muted-foreground max-w-5xl mx-auto animate-fade-in">
-            From intelligent monitoring to actionable insights, AI Tally
-            transforms your Tally data into a competitive advantage, while
-            Autoprice Pro’s Price Management System ensures dynamic, accurate,
-            and profitable pricing—empowering your business to make smarter,
-            faster decisions.
+            AI Tally automates accounting with GST/TDS calculations, smart
+            vouchers, ledgers, compliance, and real-time dashboards — keeping
+            your business accurate, compliant, and future-ready.
           </p>
         </div>
 

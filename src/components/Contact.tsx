@@ -133,7 +133,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="font-medium text-foreground">
-                        +91 9841057742
+                        +91 7418333093
                       </p>
                       <p className="text-sm text-muted-foreground">
                         Available 9 AM - 7 PM IST
